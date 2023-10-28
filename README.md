@@ -1,2 +1,2 @@
-# type
-type particles
+# typography
+type generator
